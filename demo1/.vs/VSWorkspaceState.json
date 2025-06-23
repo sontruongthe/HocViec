@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\SpringJPA",
+    "\\src\\main\\java\\SpringJPA\\demo1",
+    "\\src\\main\\java\\SpringJPA\\demo1\\Controller",
+    "\\src\\main\\java\\SpringJPA\\demo1\\Empty",
+    "\\src\\main\\java\\SpringJPA\\demo1\\Repository",
+    "\\src\\main\\java\\SpringJPA\\demo1\\Service"
+  ],
+  "SelectedNode": "\\src\\main\\java\\SpringJPA\\demo1\\Service\\SpecialCharConfigService.java",
+  "PreviewInSolutionExplorer": false
+}
